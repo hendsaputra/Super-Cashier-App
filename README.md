@@ -11,4 +11,6 @@ e  Memeriksa data yang diinput sudah benar dan lengkap
 f. Menghitung total belanja yang harus dibayarkan dan diskon yang didapatkan apabila mendapatkan diskon.
 
 # 2.FLOWCHART
-![Uploading Screenshot 2023-07-08 at 12.55.58.png…]()
+
+#3. PENJELASAN CODE PADA PROGRAM
+
